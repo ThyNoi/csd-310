@@ -1,3 +1,7 @@
+# Eric Sengvanhpheng
+# June 28, 2026
+# Database Development and Use
+
 """ import statements """
 import mysql.connector # to connect
 from mysql.connector import errorcode
